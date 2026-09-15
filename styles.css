@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  font-family: Inter, system-ui, sans-serif;
+  font-family: "Noto Sans KR", Inter, system-ui, sans-serif;
   color: var(--ink);
   background: var(--bg);
   line-height: 1.5;
@@ -63,7 +63,7 @@ a {
 
 .hero h1 {
   margin: 28px 0 18px;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Noto Serif KR", "Playfair Display", Georgia, serif;
   font-size: clamp(40px, 6.4vw, 64px);
   font-weight: 700;
   line-height: 1.12;
@@ -231,7 +231,7 @@ a {
 }
 
 .discover h2 {
-  font-family: Inter, system-ui, sans-serif;
+  font-family: "Noto Sans KR", Inter, system-ui, sans-serif;
   font-size: clamp(28px, 4.4vw, 42px);
   font-weight: 600;
   line-height: 1.22;
@@ -351,7 +351,7 @@ a {
 }
 
 .recipe h1 {
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: "Noto Serif KR", "Playfair Display", Georgia, serif;
   font-size: clamp(32px, 4.6vw, 48px);
   line-height: 1.15;
   letter-spacing: -0.02em;
